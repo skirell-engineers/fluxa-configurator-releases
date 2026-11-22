@@ -1,2 +1,11 @@
-# fluxa-configurator-releases
-Official Fluxa Configurator installers and updates. Binary releases only.
+# Fluxa Configurator
+
+Официальные установщики и обновления конфигуратора Fluxa.
+
+Скачайте последнюю версию в разделе [Releases](https://github.com/skirell-engineers/fluxa-configurator-releases/releases/latest).
+
+После установки версии с поддержкой обновлений новые выпуски можно проверять и устанавливать прямо в приложении: **Обновления → Проверить обновления**.
+
+[Сайт Fluxa](https://skirell.ru/service/fluxa/) · [Документация](https://docs-fluxa.skirell.ru/latest/)
+
+Этот репозиторий содержит только описание и готовые выпуски. Исходный код приложения здесь не публикуется. Архивы Source code, которые GitHub автоматически добавляет к выпускам, содержат только файлы этого репозитория.
